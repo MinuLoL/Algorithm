@@ -32,7 +32,7 @@ int main()
 	cout<<endl;
 	
 	if(equal(v1.begin(),v1.end(),v2.begin(),Pred))
-		cout<<"µÎ ¼øÂ÷¿­Àº °°½À´Ï´Ù."<<endl;
+		cout<<"ÂµÃ Â¼Ã¸Ã‚Ã·Â¿Â­Ã€Âº Â°Â°Â½Ã€Â´ÃÂ´Ã™."<<endl;
 		
 	return 0;
 	
